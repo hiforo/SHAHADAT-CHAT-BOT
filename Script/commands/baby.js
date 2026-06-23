@@ -13,7 +13,7 @@ module.exports.config = {
  usages: "[message/query]",
  cooldowns: 0,
  prefix: true
-};kiss2 
+};kiss 
 
 module.exports.run = async function ({ api, event, args, Users }) {
  try {
@@ -33,7 +33,7 @@ module.exports.run = async function ({ api, event, args, Users }) {
  messageID: info.messageID,
  author: event.senderID,
  type: "simsimi"
- });
+ });approved.mention"
  }
  });
  }
