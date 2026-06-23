@@ -13,7 +13,7 @@ module.exports.config = {
  usages: "[message/query]",
  cooldowns: 0,
  prefix: true
-};
+};kiss2 
 
 module.exports.run = async function ({ api, event, args, Users }) {
  try {
